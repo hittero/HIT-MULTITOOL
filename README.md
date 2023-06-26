@@ -1,4 +1,4 @@
-https://discord.com/channels/@me/1060263652306980885/1122958912509968475
+https://cdn.discordapp.com/attachments/1060263652306980885/1122958912199594034/image.png
 
 # UPDATES AND FIXES COMING SOON                                                              
 token logger builder coming soon

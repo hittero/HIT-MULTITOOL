@@ -1,4 +1,4 @@
-![example](https://cdn.discordapp.com/attachments/1060263652306980885/1122958912199594034/image.png)
+![example](https://cdn.discordapp.com/attachments/1334974061281017946/1335150691089649705/Screenshot_20230717_182201_Gallery_Original.jpg?ex=679f1f7a&is=679dcdfa&hm=b4434d0698eee4735c934627c5ca179096afa07eb4d0ab37a54e5256f94463b4&) 
 
 
 # NEW UPDATE! 2.0 VERSION.                                                              

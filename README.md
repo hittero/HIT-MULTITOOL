@@ -16,7 +16,7 @@ Q: do all features work
 A: yes, yes they do all tested before release
   
 Q: why is .exe required                                                                   
-A: im dumb and didnt code it correctly
+A: im dumb and didnt code it correctly, also easier to use
 
 Q: can i change the names to my name                                                                
 A: yes, but give me some credit
